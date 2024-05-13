@@ -9,8 +9,8 @@ __**Important**__
 
 1. [Question 1 - Wins](Question1Wins.md)
 
-2. *[Description](Description)*
+2. *[Description](Question5Coaches.md)*
 
-3. **[Files Used](FilesUsed.md)**
+4. **[Files Used](FilesUsed.md)**
 
-4. [Versioning](Versioning)
+5. [Versioning](Versioning)
