@@ -7,7 +7,7 @@ Welcome to my Superbowl Project that I have created on my freetime. I gathered a
 __**Important**__
 
 
-1. [Question 1 - Wins](Question 1 - Wins.md)
+1. [Question 1 - Wins](Question1-Wins.md)
 
 2. *[Description](Description)*
 
