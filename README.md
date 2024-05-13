@@ -11,6 +11,6 @@ __**Important**__
 
 2. *[Question 5 - Coaches](Question5Coaches.md)*
 
-4. [Question 3 - Referee Appearances](RefereeApearances.md)**
+4. [Question 3 - Referee Appearances](RefereeApearances.md)
 
 5. [Versioning](Versioning)
