@@ -9,8 +9,8 @@ __**Important**__
 
 1. [Question 1 - Wins](Question1Wins.md)
 
-2. *[Question 5 - Coaches](Question5Coaches.md)*
+3. [Question 3 - Referee Appearances](Question3Refs.md)
 
-4. [Question 3 - Referee Appearances](RefereeApearances.md)
+4. [Question 4 - MVP](Question4MVP.md)
 
-5. [Question 4 - MVP](Question4MVP.md)
+5. *[Question 5 - Coaches](Question5Coaches.md)*
