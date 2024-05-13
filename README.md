@@ -9,7 +9,7 @@ __**Important**__
 
 1. [Question 1 - Wins](Question1Wins.md)
 
-2. [Question 2 - Point Differential](Question4Points.md)
+2. [Question 2 - Point Differential](Question2Points.md)
 
 3. [Question 3 - Referee Appearances](Question3Refs.md)
 
